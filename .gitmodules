@@ -1,0 +1,3 @@
+[submodule "taxonomy"]
+	path = taxonomy
+	url = https://github.com/dcurran90/taxonomy.git
